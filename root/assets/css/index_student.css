@@ -1,0 +1,50 @@
+@charset "utf-8";
+/* CSS Document */
+h1 {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 24px;
+	color: #19a8ee;
+	text-align:center;
+    }
+.div_title_question
+{
+	margin:200 auto;
+	font-weight: bolder;
+}
+body {
+	background-color: #9CF;
+}
+.quanju {
+	background-color: #FFF;
+	width:950px; 
+	margin:150px auto;
+}
+.daoyu {
+	font-weight: bolder;
+	height: 200px;
+	width: 850px;
+	margin:auto auto;
+}
+.biaoti {
+	font-size: 36px;
+}
+
+.div_question {
+	width: 850px;
+	margin:auto auto;
+}
+.biaoti {
+	font-weight: bold;
+}
+.anniu {
+	background-color: #09F;
+}
+.anniu {
+	font-size: 20px;
+}
+.hh {
+	color: #F00;
+	font-weight: bold;
+}
+
+
